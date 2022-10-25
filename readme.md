@@ -1,8 +1,14 @@
 # Repositorio del proyecto: Bellabeat - Cómo una fitness company puede jugar inteligente
 ## Próposito
 En este repositorio encontrarás:
-- Data sobre 30 personas y sus fitness trackers durante 1 mes.
--- Las métrica analizadas serían: Calorías, sueño, METs, Steps, weight, intensities y heartrate
+- Data sobre 30 personas y sus fitness trackers durante 1 mes. Las métrica analizadas serían:
+1. Calorías.
+2. Sueño.
+3. METs
+4. Steps.
+5. Weight.
+6. Intensities.
+7. Heartrate
 - Mi análisis personal sobre esta data con Python.
 
 
